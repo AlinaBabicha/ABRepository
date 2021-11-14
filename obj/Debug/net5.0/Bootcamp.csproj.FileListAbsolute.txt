@@ -1,0 +1,16 @@
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.csproj.AssemblyReference.cache
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.AssemblyInfo.cs
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\bin\Debug\net5.0\Bootcamp.exe
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\bin\Debug\net5.0\Bootcamp.deps.json
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\bin\Debug\net5.0\Bootcamp.runtimeconfig.json
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\bin\Debug\net5.0\Bootcamp.runtimeconfig.dev.json
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\bin\Debug\net5.0\Bootcamp.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\bin\Debug\net5.0\ref\Bootcamp.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\bin\Debug\net5.0\Bootcamp.pdb
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\ref\Bootcamp.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.pdb
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\obj\Debug\net5.0\Bootcamp.genruntimeconfig.cache
