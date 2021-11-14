@@ -1,0 +1,16 @@
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\bin\Debug\net5.0\Strater_App.exe
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\bin\Debug\net5.0\Strater_App.deps.json
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\bin\Debug\net5.0\Strater_App.runtimeconfig.json
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\bin\Debug\net5.0\Strater_App.runtimeconfig.dev.json
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\bin\Debug\net5.0\Strater_App.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\bin\Debug\net5.0\ref\Strater_App.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\bin\Debug\net5.0\Strater_App.pdb
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.csproj.AssemblyReference.cache
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.AssemblyInfo.cs
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\ref\Strater_App.dll
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.pdb
+C:\Users\Nadezhda\Desktop\.NET\Bootcamp\Strater_App\Strater_App\Strater_App\obj\Debug\net5.0\Strater_App.genruntimeconfig.cache
