@@ -43,9 +43,8 @@ namespace CSharp.Activity.Datastore
             //start solution
             int[] storeArray = new int[arraySize];
 
-            //if (arraySize < 1)
-              //  return arraySize = DEFAULT_SIZE;
-        }
+            //if (!int.TryParse(arraySize, out DEFAULT_SIZE))
+              //  return;        
 
 
         /// <summary>
@@ -147,8 +146,13 @@ namespace CSharp.Activity.Datastore
             // }
 
 			//start solution
-			
-            return NOT_IN_STRUCTURE;
+            foreach (T item in storeArray)
+            {
+                if (item.Equals(argToFind))
+                    return IndexOf(item);
+                else
+                    return NOT_IN_STRUCTURE;
+            }
         }
 
 
@@ -162,9 +166,22 @@ namespace CSharp.Activity.Datastore
             //TODO Activity 2.3
             //Add item to the array if array is not full and return new item index, otherwise return NOT_IN_STRUCTURE.
 
-			//start solution
-			
-            return NOT_IN_STRUCTURE;
+            //start solution
+
+            if (this.Count < this.Capacity)
+            {
+                T[] newArray = new T[storeArray.Length + 1];
+                int i;
+                for (i = 0; i < storeArray.Length; i++)
+                {
+                    newArray[i] = storeArray[i];
+                }
+                newArray[i] = obj;
+                T[] newArray1 = newArray;
+                return newArray1;
+            }
+            else
+                return NOT_IN_STRUCTURE;
         }
 
         /// <summary>
